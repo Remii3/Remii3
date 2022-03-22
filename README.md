@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Remigiusz
 - 👀 I’m interested in creating React apps and doing sports 🏂🤸‍♂️
 - 🌱 I’m currently learning more about React and Next
-- 📫 How to reach me? Here is my email address remek778790@gmail.com 
+- 📫 How to contact me? Here is my email address remek778790@gmail.com 
