@@ -5,14 +5,11 @@ I’m Remigiusz 👨‍🎨
 <br/>
 
 ## 🛠️ Tech stack:
-<br/>
 html5 css3 sass javascript webpack react next git firebase
 
 ## About Me:
-<br/>
 - 👀 I’m interested in creating React apps and doing sports 🏂🤸‍♂️
 - 🌱 I’m currently learning more about React and Next
 
 ## 📫 How to contact me?
-<br/>
 Here is my email address remek778790@gmail.com 
