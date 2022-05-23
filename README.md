@@ -2,7 +2,7 @@
 
 ## I’m Remigiusz 👨‍🎨
 
-![](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559)
+![](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif)
 <br/>
 
 ## 🛠️ Tech stack:
