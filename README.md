@@ -1,16 +1,27 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25" height="25"/>
-### My name is Remigiusz 👨‍🎨
-
-# ![](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611a744ed0187aca0348420c06b30ca997dbfab8913&rid=giphy.gif&ct=g.gif)
-
-## 🛠️ Tech stack:
-<img src="https://user-images.githubusercontent.com/87277024/169841647-d0f1cb41-57be-4aea-ad49-1b165cc47c5a.png" width="40px" height="40px"/> <img src="https://user-images.githubusercontent.com/87277024/169842645-19c1478b-ff41-46fb-8729-160b9b12e5e6.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169842823-d7f21786-2957-42eb-82dd-c09cd940d8f9.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169913457-747fb870-3126-482d-b444-7c60a402cb75.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169913153-2400b063-e274-46e4-87fe-3a087b8aad85.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169842956-884fa0b0-5685-439d-96b2-01a7e365d4b5.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169843025-7159d125-ce3b-4307-918b-738a67dd1e96.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169913286-139ae226-68c6-4b4e-8a6c-6fbf09bdf9e7.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169842992-8e7c8a85-acd9-4f7b-aa06-9ba6e74d52c0.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169843077-a9abd7e6-883c-43aa-b2ff-a32ea36adcee.png" width="35px" height="35px"/> <img src="https://user-images.githubusercontent.com/87277024/169843125-b39d67fd-2f98-4ce8-9f73-7c9961fbb9b7.png" width="35px" height="35px"/>  
-
-## 👨🏻‍💻 About Me:
-- 👀 I’m interested in React, UI/UX and sports 🏂🤸‍♂️
-- 🌱 Currently learning more about MERN
-
-## 📫 How to contact me?
-Here is my email address remek778790@gmail.com 
+# 💫 About Me:
+🔭 I’m currently working on a full-stack E-commerce MERN app<br>👯 Always happy to collaborate on interesting projects<br>🤝 If you need help ask me anything<br>🌱 I’m currently learning JEST and Docker<br>💬 Ask me about anything<br>⚡ Fun fact I used to test games<br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4GTsh6X8) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/remigiusz.wozniak.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dekorenno__morenno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/remigiusz-woźniak-1244a5230) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/remii_3) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Remii3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Remii3&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Remii3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Remii3&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Remii3&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Remii3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
