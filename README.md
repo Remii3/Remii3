@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Native app <br>👯 Always happy to collaborate on interesting projects<br>🤝 If you need help ask me anything<br>🌱 I’m currently learning JEST and Docker<br>💬 Ask me about anything<br>⚡ Fun fact I used to test games<br>
+🔭 I’m currently working on a React Native app <br>👯 Always happy to collaborate on interesting projects<br>🤝 If you need help ask me anything<br>🌱 I’m currently learning more about React Native and Docker<br>💬 Ask me about anything<br>⚡ Fun fact I used to test games<br>
 
 
 ## 🌐 Socials:
